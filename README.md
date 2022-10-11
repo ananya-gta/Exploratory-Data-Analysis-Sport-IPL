@@ -2,7 +2,7 @@
 
 The dataset consist of data about IPL matches played from the year 2008 to 2019. IPL is a professional Twenty20 cricket league founded by the Board of Control for Cricket in India (BCCI) in 2008. The league has 8 teams representing 8 different Indian cities or states. It enjoys tremendous popularity and the brand value of the IPL in 2019 was estimated to be ₹475 billion (US$6.7 billion). So let’s analyze IPL through stats.
 
-Objectives:
+### Objectives:
 
 > 1. To find the team that won the most number of matches in a season.
 > 2. To find the team that lost the most number of matches in a season.
