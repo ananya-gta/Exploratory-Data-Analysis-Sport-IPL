@@ -8,8 +8,6 @@ Original file is located at
 
 # **Ananya Gupta**
 
-## **DATA SCIENCE & BUSINESS ANALYTICS INTERN AT THE SPARKS FOUNDATION**
-
 ### DATASET: matches.csv (https://bit.ly/34SRn3b ) 
 
 ## **EXPLORATORY DATA ANALYSIS - SPORTS**
